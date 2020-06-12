@@ -251,7 +251,7 @@ class Home extends StatelessWidget {
               height: 200,
               child: Padding(
                 padding: const EdgeInsets.all(5.0),
-                child: new ListView(
+                child: ListView(
                   scrollDirection: Axis.horizontal,
                   children: <Widget>[
                     Padding(
@@ -273,15 +273,12 @@ class Home extends StatelessWidget {
                       padding: const EdgeInsets.all(5.0),
                       child: Column(
                         children: <Widget>[
-                          FittedBox(
-                            child: Image.network(
-                                'https://www.platypusshoes.com.au/media/catalog/product/cache/c687aa7517cf01e65c009f6943c2b1e9/5/x/5xm0817956.pnk_5xm0817956_pnk_01_227173.jpg',
-                                width: 100),
-                            fit: BoxFit.fill,
-                          ),
-                          Text("Pink Light"),
+                          Image.network(
+                              'https://www.platypusshoes.com.au/media/catalog/product/cache/c687aa7517cf01e65c009f6943c2b1e9/5/x/5xm0817956.pnk_5xm0817956_pnk_01_227173.jpg',
+                              width: 100),
+                          Text("FILA Black"),
                           Text(
-                            "RM29.99",
+                            "RM49.99",
                             style: TextStyle(fontWeight: FontWeight.bold),
                           ),
                         ],
@@ -291,15 +288,12 @@ class Home extends StatelessWidget {
                       padding: const EdgeInsets.all(5.0),
                       child: Column(
                         children: <Widget>[
-                          FittedBox(
-                            child: Image.network(
-                                'https://www.platypusshoes.com.au/media/catalog/product/cache/c687aa7517cf01e65c009f6943c2b1e9/f/w/fw01655ww_wht_01.jpg',
-                                width: 100),
-                            fit: BoxFit.fill,
-                          ),
-                          Text("Plain Smart"),
+                          Image.network(
+                              'https://www.platypusshoes.com.au/media/catalog/product/cache/c687aa7517cf01e65c009f6943c2b1e9/f/w/fw01655ww_wht_01.jpg',
+                              width: 100),
+                          Text("FILA Black"),
                           Text(
-                            "RM44.50",
+                            "RM49.99",
                             style: TextStyle(fontWeight: FontWeight.bold),
                           ),
                         ],
@@ -309,15 +303,12 @@ class Home extends StatelessWidget {
                       padding: const EdgeInsets.all(5.0),
                       child: Column(
                         children: <Widget>[
-                          FittedBox(
-                            child: Image.network(
-                                'https://www.platypusshoes.com.au/media/catalog/product/cache/c687aa7517cf01e65c009f6943c2b1e9/f/w/fw01655wpn.pnk_fw01655wpn_pnk_01_249966.jpg',
-                                width: 100),
-                            fit: BoxFit.fill,
-                          ),
-                          Text("Pink Soft"),
+                          Image.network(
+                              'https://www.platypusshoes.com.au/media/catalog/product/cache/c687aa7517cf01e65c009f6943c2b1e9/f/w/fw01655wpn.pnk_fw01655wpn_pnk_01_249966.jpg',
+                              width: 100),
+                          Text("FILA Black"),
                           Text(
-                            "RM80.99",
+                            "RM49.99",
                             style: TextStyle(fontWeight: FontWeight.bold),
                           ),
                         ],
@@ -327,15 +318,12 @@ class Home extends StatelessWidget {
                       padding: const EdgeInsets.all(5.0),
                       child: Column(
                         children: <Widget>[
-                          FittedBox(
-                            child: Image.network(
-                                'https://www.platypusshoes.com.au/media/catalog/product/cache/c687aa7517cf01e65c009f6943c2b1e9/5/f/5fm0692136_wht_01_1.jpg',
-                                width: 100),
-                            fit: BoxFit.fill,
-                          ),
-                          Text("Liners Yellow"),
+                          Image.network(
+                              'https://www.platypusshoes.com.au/media/catalog/product/cache/c687aa7517cf01e65c009f6943c2b1e9/5/f/5fm0692136_wht_01_1.jpg',
+                              width: 100),
+                          Text("FILA Black"),
                           Text(
-                            "RM76.99",
+                            "RM49.99",
                             style: TextStyle(fontWeight: FontWeight.bold),
                           ),
                         ],
@@ -345,15 +333,12 @@ class Home extends StatelessWidget {
                       padding: const EdgeInsets.all(5.0),
                       child: Column(
                         children: <Widget>[
-                          FittedBox(
-                            child: Image.network(
-                                'https://www.platypusshoes.com.au/media/catalog/product/cache/c687aa7517cf01e65c009f6943c2b1e9/3/r/3rm1064140.wht_3rm1064140_wht_01_227131.jpg',
-                                width: 100),
-                            fit: BoxFit.fill,
-                          ),
-                          Text("Fila Standard"),
+                          Image.network(
+                              'https://www.platypusshoes.com.au/media/catalog/product/cache/c687aa7517cf01e65c009f6943c2b1e9/3/r/3rm1064140.wht_3rm1064140_wht_01_227131.jpg',
+                              width: 100),
+                          Text("FILA Black"),
                           Text(
-                            "RM52.99",
+                            "RM49.99",
                             style: TextStyle(fontWeight: FontWeight.bold),
                           ),
                         ],
