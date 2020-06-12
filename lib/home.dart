@@ -90,8 +90,8 @@ class Home extends StatelessWidget {
                     children: <Widget>[
                       FittedBox(
                         child: Image.network(
-                            'https://www.iconsdb.com/icons/preview/black/shoe-xxl.png',
-                            width: 45),
+                            'https://www.iconsdb.com/icons/preview/soylent-red/shoe-xxl.png',
+                            width: 30),
                         fit: BoxFit.fill,
                       ),
                       SizedBox(
@@ -107,8 +107,8 @@ class Home extends StatelessWidget {
                     children: <Widget>[
                       FittedBox(
                         child: Image.network(
-                            'https://www.iconsdb.com/icons/preview/black/t-shirt-xxl.png',
-                            width: 45),
+                            'https://www.iconsdb.com/icons/preview/soylent-red/t-shirt-xxl.png',
+                            width: 30),
                         fit: BoxFit.fill,
                       ),
                       SizedBox(
@@ -124,8 +124,8 @@ class Home extends StatelessWidget {
                     children: <Widget>[
                       FittedBox(
                         child: Image.network(
-                            'https://www.iconsdb.com/icons/preview/black/electronics-xxl.png',
-                            width: 45),
+                            'https://www.iconsdb.com/icons/preview/soylent-red/electronics-xxl.png',
+                            width: 30),
                         fit: BoxFit.fill,
                       ),
                       SizedBox(
@@ -141,8 +141,8 @@ class Home extends StatelessWidget {
                     children: <Widget>[
                       FittedBox(
                         child: Image.network(
-                            'https://www.iconsdb.com/icons/preview/black/bass-drum-xxl.png',
-                            width: 45),
+                            'https://www.iconsdb.com/icons/preview/soylent-red/bass-drum-xxl.png',
+                            width: 30),
                         fit: BoxFit.fill,
                       ),
                       SizedBox(
@@ -161,8 +161,8 @@ class Home extends StatelessWidget {
                           color: Colors.grey[100],
                           child: InkWell(
                             child: SizedBox(
-                              width: 45,
-                              height: 45,
+                              width: 30,
+                              height: 30,
                               child: Icon(
                                 Icons.arrow_forward_ios,
                                 color: Colors.redAccent,
