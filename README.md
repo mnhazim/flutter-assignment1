@@ -22,3 +22,4 @@ samples, guidance on mobile development, and a full API reference.
     - Lunacy
     - Adobe XD
     - Supernove.io
+    - SketchApp
