@@ -1,6 +1,6 @@
-# Assignment1
+# Flutter Assignment 1
 
-A new Flutter project.
+Basic usage in flutter, login screen and home screen for shopping apps. 
 
 ## Getting Started
 
@@ -18,8 +18,7 @@ samples, guidance on mobile development, and a full API reference.
 ## Nota
 
 ### Tools for Express Development & Design
-
-- Flutter Studio
-- Lunacy
-- Adobe XD
-- Supernove.io
+    - Flutter Studio
+    - Lunacy
+    - Adobe XD
+    - Supernove.io
