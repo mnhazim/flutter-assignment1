@@ -85,11 +85,7 @@ class _LoginState extends State<Login> {
                   borderRadius: BorderRadius.circular(18.0),
                   side: BorderSide(color: Colors.red)),
               onPressed: () {
-                if(_emailController.text == 'hazim' && _passwordController.text == "123"){
-                  Navigator.pushNamed(context, 'home');
-                } else {
-                  print("Invalid");
-                }
+                Navigator.pushNamed(context, 'home');
               },
               color: Colors.red,
               textColor: Colors.white,
